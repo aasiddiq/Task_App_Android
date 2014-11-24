@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Enter your Name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="40.6dp"
+        android:id="@+id/TextView1"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="48.5dp"
+        android:id="@+id/txtName"
+        android:textColor="@android:color/primary_text_light" />
+    <TextView
+        android:text="Enter your Location"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="40.6dp"
+        android:id="@+id/TextView2"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="20dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="49.6dp"
+        android:id="@+id/txtLoc"
+        android:textColor="@android:color/primary_text_light" />
+    <Button
+        android:text="Submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSubmit"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="20dp" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="285.3dp"
+        android:layout_height="74.7dp"
+        android:id="@+id/txtdisp"
+        android:layout_marginTop="30.8dp"
+        android:layout_marginLeft="42.7dp"
+        android:layout_marginRight="64.2dp"
+        style="@android:style/TextAppearance.Large"
+        android:capitalize="words" />
+</LinearLayout>
