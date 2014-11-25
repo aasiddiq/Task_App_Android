@@ -25,6 +25,12 @@ namespace App2
             EditText txtName = FindViewById<EditText>(Resource.Id.txtName);
             EditText txtLocation = FindViewById<EditText>(Resource.Id.txtLoc);
             TextView txtDisp = FindViewById<TextView>(Resource.Id.txtdisp);
+            Button btnMovie = FindViewById<Button>(Resource.Id.btnMovie);
+
+            btnMovie.Click += (object sender, EventArgs e) =>
+                {
+                    StartActivity(typeof(MovieActivity));
+                };
 
             submit.Click += (object sender, EventArgs e) =>
             {

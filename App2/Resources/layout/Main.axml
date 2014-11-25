@@ -22,26 +22,39 @@
         android:layout_width="match_parent"
         android:layout_height="40.6dp"
         android:id="@+id/TextView2"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="60dp"
         android:layout_marginBottom="20dp" />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="49.6dp"
         android:id="@+id/txtLoc"
         android:textColor="@android:color/primary_text_light" />
-    <Button
-        android:text="Submit"
-        android:layout_width="match_parent"
+    <LinearLayout
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btnSubmit"
-        android:layout_marginTop="35dp"
-        android:layout_marginBottom="20dp" />
+        android:id="@+id/layoutBtnHolder"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp">
+        <Button
+            android:text="Movie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMovie"
+            android:layout_weight="1" />
+        <Button
+            android:text="Submit"
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
     <TextView
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="285.3dp"
-        android:layout_height="74.7dp"
+        android:layout_height="86.3dp"
         android:id="@+id/txtdisp"
-        android:layout_marginTop="30.8dp"
+        android:layout_marginTop="15.8dp"
         android:layout_marginLeft="42.7dp"
         android:layout_marginRight="64.2dp"
         style="@android:style/TextAppearance.Large"

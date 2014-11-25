@@ -16,3 +16,6 @@ c:\users\aadil-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\uplo
 C:\Users\Aadil-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\anim\shake.xml
 C:\Users\Aadil-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\anim\cycle_7.xml
 C:\Users\Aadil-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\drawable\backtext.xml
+C:\Users\Aadil-pc\Documents\Visual Studio 2013\Projects\App2\App2\obj\Debug\res\layout\movies.xml
+C:\Users\Aadil-pc\Documents\Visual Studio 2013\Projects\App2\App2\obj\Debug\res\layout\listviewtemplate.xml
+C:\Users\Aadil-pc\documents\visual studio 2013\Projects\App2\App2\obj\Debug\res\layout\listtemplate.xml
