@@ -53,6 +53,9 @@ namespace App2
             foreach (string type in paramType)
             {
                 SharedKey = appendHashString(SharedKey, type, parameters);
+                //For the route part We can add this.
+                //if (type == paramType[1])
+                //    SharedKey += RequestObject.Resource;
             }
             UnicodeEncoding ue = new UnicodeEncoding();
             byte[] HashValue;
