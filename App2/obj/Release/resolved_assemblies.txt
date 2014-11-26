@@ -1,7 +1,7 @@
-C:\Users\Aadil-pc\Documents\Visual Studio 2013\Projects\App2\App2\bin\Release\App2.dll
+C:\Users\Aadil-pc\documents\visual studio 2013\Projects\App2\App2\bin\Release\App2.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
-C:\Users\Aadil-pc\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\RestSharp.MonoDroid.dll
+C:\Users\Aadil-pc\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\RestSharp.MonoDroid.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
